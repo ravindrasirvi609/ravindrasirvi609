@@ -1,16 +1,66 @@
-### Hi there 👋
+# Front End Engineer Portfolio
 
-<!--
-**ravindrasirvi609/ravindrasirvi609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository showcasing my skills as a Front End Engineer! This repository serves as my personal portfolio where I demonstrate my expertise in various web development technologies, including HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Angular, Next.js, and even Java.
 
-Here are some ideas to get you started:
+## Table of Contents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Technologies](#technologies)
+- [Projects](#projects)
+- [Contact](#contact)
+
+## Technologies
+
+Here's a list of technologies and frameworks I specialize in:
+
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- TypeScript
+- Angular
+- Next.js
+- Java
+
+## Projects
+
+### Project 1: Web Design Portfolio
+
+- Description: A beautifully designed web portfolio showcasing my web development skills.
+- Technologies Used: HTML, CSS, Tailwind CSS
+- [Link to Project](#)
+
+### Project 2: Interactive Web App
+
+- Description: An interactive web application demonstrating my JavaScript and TypeScript knowledge.
+- Technologies Used: JavaScript, TypeScript
+- [Link to Project](#)
+
+### Project 3: Angular Single Page App
+
+- Description: An Angular single page application highlighting my proficiency with Angular.
+- Technologies Used: Angular
+- [Link to Project](#)
+
+### Project 4: Next.js Blog
+
+- Description: A Next.js blog, showcasing my expertise in server-rendered React applications.
+- Technologies Used: Next.js
+- [Link to Project](#)
+
+### Project 5: Java Web Application
+
+- Description: A Java web application demonstrating my back-end skills.
+- Technologies Used: Java, Spring Boot
+- [Link to Project](#)
+
+Feel free to explore these projects to see my work in action!
+
+## Contact
+
+If you'd like to get in touch with me or collaborate on a project, you can reach me via:
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+
+Thank you for visiting my portfolio! I look forward to connecting with you and working together on exciting projects.
