@@ -59,8 +59,7 @@ Feel free to explore these projects to see my work in action!
 
 If you'd like to get in touch with me or collaborate on a project, you can reach me via:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: [sirviravindra609@gmail.com](mailto:sirviravindra609@gmail.com)
+- LinkedIn: [ravindra-sirvi](https://www.linkedin.com/in/ravindra-sirvi-a3a260187/)
 
 Thank you for visiting my portfolio! I look forward to connecting with you and working together on exciting projects.
