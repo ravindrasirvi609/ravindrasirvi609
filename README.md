@@ -3,13 +3,16 @@
 
 Innovative and results-oriented Software Engineer with a dynamic 2-year journey, spearheading the creation, optimization, and deployment of cutting-edge web applications. My passion lies in leveraging the power of Angular, .NET Core, and Next.js to deliver seamless, high-performance digital experiences. Adept at collaborating with cross-functional teams, I specialize in transforming ideas into robust, user-centric solutions that bridge the gap between technology and business needs.
 
-## Professional Journey:
-
-- [Technologies](#technologies)
-- [Projects](#projects)
-- [Contact](#contact)
 
 ## Technologies
+### Angular Artistry: 
+Engineered captivating and responsive user interfaces using Angular, transforming design concepts into interactive realities. Elevated user experiences through intricate front-end development, ensuring pixel-perfect precision and intuitive navigation.
+
+### .NET Core Mastery: 
+Architected and implemented robust back-end solutions with .NET Core, contributing to the backbone of scalable applications. My focus on code quality and maintainability ensures the longevity and adaptability of every project.
+
+### Next.js Wizardry: 
+Unleashed the power of Next.js to craft performant and SEO-friendly web applications. Engineered server-side rendering for enhanced performance, elevating the discoverability and engagement of web content.
 
 Here's a list of technologies and frameworks I specialize in:
 
