@@ -1,8 +1,9 @@
-# Front End Engineer Portfolio
+# Software Engineering Maestro | Crafting Digital Experiences with Angular, .NET Core, and Next.js
 
-Welcome to my GitHub repository showcasing my skills as a Front End Engineer! This repository serves as my personal portfolio where I demonstrate my expertise in various web development technologies, including HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Angular, Next.js, and even Java.
 
-## Table of Contents
+Innovative and results-oriented Software Engineer with a dynamic 2-year journey, spearheading the creation, optimization, and deployment of cutting-edge web applications. My passion lies in leveraging the power of Angular, .NET Core, and Next.js to deliver seamless, high-performance digital experiences. Adept at collaborating with cross-functional teams, I specialize in transforming ideas into robust, user-centric solutions that bridge the gap between technology and business needs.
+
+## Professional Journey:
 
 - [Technologies](#technologies)
 - [Projects](#projects)
