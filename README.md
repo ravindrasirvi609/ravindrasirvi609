@@ -27,19 +27,19 @@ Here's a list of technologies and frameworks I specialize in:
 
 ## Projects
 
-### Project 1: Web Design Portfolio
+### Project 1: Operant Student Resistration Sytem
 
 - Description: A beautifully designed web portfolio showcasing my web development skills.
 - Technologies Used: HTML, CSS, Tailwind CSS
 - [Link to Project](#)
 
-### Project 2: Interactive Web App
+### Project 2: BioForgeHub Event Managemnt 
 
 - Description: An interactive web application demonstrating my JavaScript and TypeScript knowledge.
 - Technologies Used: JavaScript, TypeScript
 - [Link to Project](#)
 
-### Project 3: Angular Single Page App
+### Project 3: Developer PortFolio
 
 - Description: An Angular single page application highlighting my proficiency with Angular.
 - Technologies Used: Angular
