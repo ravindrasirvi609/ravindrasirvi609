@@ -1,7 +1,11 @@
 # Software Engineering Maestro | Crafting Digital Experiences with Angular, .NET Core, and Next.js
 
 
-Innovative and results-oriented Software Engineer with a dynamic 2-year journey, spearheading the creation, optimization, and deployment of cutting-edge web applications. My passion lies in leveraging the power of Angular, .NET Core, and Next.js to deliver seamless, high-performance digital experiences. Adept at collaborating with cross-functional teams, I specialize in transforming ideas into robust, user-centric solutions that bridge the gap between technology and business needs.
+Highly motivated Computer Science and Engineering graduate with two years of professional experience as a Full Stack Developer. Quick learner with a strong
+understanding of web development principles and a proven track record of adapting to new technologies. Proficient in HTML, CSS, TypeScript, and ASP.NET
+Core, with a focus on designing and developing responsive web applications using Angular and Next.js. Experienced in integrating APIs and optimizing web
+performance to deliver high-quality user experiences. Demonstrated ability to contribute effectively to project success and a commitment to continuous
+learning, eager to expand skills and knowledge in the ever-evolving field of software development.
 
 
 ## Technologies
