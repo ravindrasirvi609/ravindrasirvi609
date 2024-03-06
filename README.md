@@ -35,31 +35,24 @@ Here's a list of technologies and frameworks I specialize in:
 
 - Description: A beautifully designed web portfolio showcasing my web development skills.
 - Technologies Used: HTML, CSS, Tailwind CSS
-- [Link to Project](#)
+- [Link to Project](https://operantpharmacy.vercel.app)
 
 ### Project 2: BioForgeHub Event Managemnt 
 
 - Description: An interactive web application demonstrating my JavaScript and TypeScript knowledge.
 - Technologies Used: JavaScript, TypeScript
-- [Link to Project](#)
+- [Link to Project](https://operant-evently.vercel.app/)
 
 ### Project 3: Developer PortFolio
 
-- Description: An Angular single page application highlighting my proficiency with Angular.
-- Technologies Used: Angular
-- [Link to Project](#)
+- Description: An Next Js single page application highlighting my proficiency.
+- Technologies Used: Next Js
+- [Link to Project](https://theravindrachoudhary.vercel.app/)
 
-### Project 4: Next.js Blog
+### Project 4: NextGEN Blog Website
 
-- Description: A Next.js blog, showcasing my expertise in server-rendered React applications.
+- Description: A NextGEN blog, showcasing my expertise in server-rendered React applications.
 - Technologies Used: Next.js
-- [Link to Project](#)
-
-### Project 5: Java Web Application
-
-- Description: A Java web application demonstrating my back-end skills.
-- Technologies Used: Java, Spring Boot
-- [Link to Project](#)
 
 Feel free to explore these projects to see my work in action!
 
