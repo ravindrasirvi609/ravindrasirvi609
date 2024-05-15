@@ -74,7 +74,7 @@ Feel free to explore these projects to see my work in action!
 </p>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=operantnext)](https://github.com/ravindrasirvi609/operantnext)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ravindrasirvi609)]
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ravindrasirvi609)](https://github.com/ravindrasirvi609/operantnext)
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindrasirvi609&style=for-the-badge&color=orange" alt=""/>
