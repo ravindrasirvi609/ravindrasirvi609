@@ -73,11 +73,11 @@ Feel free to explore these projects to see my work in action!
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasirvi609&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=operantnext)](https://github.com/ravindrasirvi609/operantnext)
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindrasirvi609&style=for-the-badge&color=orange" alt=""/>
 </div>
-
+https://github.com/ravindrasirvi609/operantnext
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
