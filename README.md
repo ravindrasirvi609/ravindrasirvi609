@@ -73,7 +73,7 @@ Feel free to explore these projects to see my work in action!
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasirvi609&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindrasirvi609&style=for-the-badge&color=orange" alt=""/>
