@@ -26,8 +26,7 @@ Here's a list of technologies and frameworks I specialize in:
 - JavaScript
 - TypeScript
 - Angular
-- Next.js
-- Java
+- Next.js
 
 ## Projects
 
