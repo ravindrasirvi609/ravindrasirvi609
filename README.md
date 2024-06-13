@@ -81,8 +81,7 @@ https://github.com/ravindrasirvi609/operantnext
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
+
 
 ## Contact
 
