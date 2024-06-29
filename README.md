@@ -27,7 +27,7 @@ Here's a list of technologies and frameworks I specialize in:
 - TypeScript
 - Angular
 - Next.js
-
+- ASP DOT NET Core
 ## Projects
 
 ### Project 1: Operant Student Resistration Sytem
