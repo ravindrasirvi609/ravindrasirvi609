@@ -1,82 +1,97 @@
-# Ravindra Sirvi | Full Stack Developer
-
-👨‍💻 Crafting Digital Experiences with Angular, .NET Core, and Next.js
-
-## 🚀 About Me
-
-Highly motivated Computer Science and Engineering graduate with a passion for creating innovative web solutions. With two years of professional experience as a Full Stack Developer, I specialize in designing and developing responsive web applications using cutting-edge technologies.
-
-🔧 **Tech Stack:** Angular, .NET Core, Next.js, HTML, CSS, TypeScript, ASP.NET Core
-🎯 **Focus:** Responsive design, API integration, web performance optimization
-🌱 **Always learning:** Committed to staying at the forefront of web development trends
-
-## 🛠️ Technologies & Tools
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-## 🏆 Featured Projects
-
-### 1. Apticon 2024 - Event Website
-🔗 [www.apticon2024.com](https://www.apticon2024.com)
-- Next.js-powered event website showcasing modern design and seamless user experience
-- Features: Event details, registration, schedule management
-
-### 2. Modern Portfolio Website
-🔗 [www.ravindrachoudhary.in](https://www.ravindrachoudhary.in)
-- Personal portfolio showcasing my projects and skills
-- Built with Next.js for optimal performance and SEO
-
-### 3. Operant Biomedical Research
-🔗 [operant-biomedical.vercel.app](https://operant-biomedical.vercel.app)
-- Web platform for biomedical research and collaboration
-- Responsive design, intuitive navigation, and data visualization
-
-### 4. Video Conferencing Application
-🔗 [operant-video-conferencing.vercel.app](https://operant-video-conferencing.vercel.app)
-- Zoom-inspired video conferencing solution
-- Real-time communication, screen sharing, and chat functionality
-
-### 5. Operant Student Registration System
-- Streamlined student registration process with user-friendly interface
-- Tech Stack: HTML, CSS, Tailwind CSS
-🔗 [View Project](https://operantpharmacy.vercel.app)
-
-### 6. BioForgeHub Event Management
-- Interactive event management platform
-- Tech Stack: JavaScript, TypeScript
-🔗 [View Project](https://operant-evently.vercel.app/)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ravindrasirvi609&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindrasirvi609&show_icons=true&theme=vision-friendly-dark" alt="Ravindra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasirvi609&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
-## 🤝 Let's Connect!
-
-I'm always open to exciting projects and collaborations. Feel free to reach out:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravindra%20Sirvi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ravindra-sirvi-a3a260187/)
-[![Email](https://img.shields.io/badge/Email-sirviravindra609%40gmail.com-red?style=flat-square&logo=gmail)](mailto:sirviravindra609@gmail.com)
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravindrasirvi609&style=for-the-badge&color=orange" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00F7A1&center=true&vCenter=true&width=435&lines=Ravindra+Sirvi;Full+Stack+Developer;Angular+%7C+.NET+Core+%7C+Next.js" alt="Typing SVG" />
 </div>
 
 <p align="center">
- <img width="100%" src="https://github.com/ravindrasirvi609/ravindrasirvi609/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://www.linkedin.com/in/ravindra-sirvi-a3a260187/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:sirviravindra609@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.ravindrachoudhary.in"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
-Thanks for visiting my profile! Let's build something amazing together. 🚀
+## 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer with 2+ years of experience crafting robust and scalable web applications. My expertise lies in:
+
+- 🅰️ Building dynamic UIs with Angular
+- 🎯 Developing efficient backend systems using .NET Core
+- ⚛️ Creating performant and SEO-friendly apps with Next.js
+- 🚀 Optimizing web performance and user experience
+
+I thrive on challenges and continuously expand my skill set to stay at the forefront of technology.
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Apticon 2024</h3>
+      <div align="center">
+        <a href="https://www.apticon2024.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=00F7A1&center=true&vCenter=true&multiline=true&width=350&height=100&lines=Next.js+Event+Website;Modern+Design;Seamless+User+Experience" alt="Apticon 2024"/></a>
+        <p><a href="https://www.apticon2024.com" target="_blank">Live Demo</a></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Modern Portfolio</h3>
+      <div align="center">
+        <a href="https://www.ravindrachoudhary.in" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=00F7A1&center=true&vCenter=true&multiline=true&width=350&height=100&lines=Next.js+Portfolio;Showcasing+Skills;Optimized+Performance" alt="Modern Portfolio"/></a>
+        <p><a href="https://www.ravindrachoudhary.in" target="_blank">Live Demo</a></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Operant Biomedical Research</h3>
+      <div align="center">
+        <a href="https://operant-biomedical.vercel.app" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=00F7A1&center=true&vCenter=true&multiline=true&width=350&height=100&lines=Biomedical+Research+Platform;Responsive+Design;Data+Visualization" alt="Operant Biomedical Research"/></a>
+        <p><a href="https://operant-biomedical.vercel.app" target="_blank">Live Demo</a></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Video Conferencing App</h3>
+      <div align="center">
+        <a href="https://operant-video-conferencing.vercel.app" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=00F7A1&center=true&vCenter=true&multiline=true&width=350&height=100&lines=Zoom-inspired+Solution;Real-time+Communication;Screen+Sharing+%26+Chat" alt="Video Conferencing App"/></a>
+        <p><a href="https://operant-video-conferencing.vercel.app" target="_blank">Live Demo</a></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravindrasirvi609&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravindrasirvi609&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrasirvi609&theme=algolia" alt="ravindrasirvi609" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindrasirvi609&theme=algolia&column=7" alt="ravindrasirvi609" /></a>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ravindrasirvi609&theme=react-dark" alt="Contribution Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
