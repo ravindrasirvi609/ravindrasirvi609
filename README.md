@@ -1,93 +1,82 @@
-# Software Engineering Maestro | Crafting Digital Experiences with Angular, .NET Core, and Next.js
+# Ravindra Sirvi | Full Stack Developer
 
+👨‍💻 Crafting Digital Experiences with Angular, .NET Core, and Next.js
 
-Highly motivated Computer Science and Engineering graduate with two years of professional experience as a Full Stack Developer. Quick learner with a strong
-understanding of web development principles and a proven track record of adapting to new technologies. Proficient in HTML, CSS, TypeScript, and ASP.NET
-Core, with a focus on designing and developing responsive web applications using Angular and Next.js. Experienced in integrating APIs and optimizing web
-performance to deliver high-quality user experiences. Demonstrated ability to contribute effectively to project success and a commitment to continuous
-learning, eager to expand skills and knowledge in the ever-evolving field of software development.
+## 🚀 About Me
 
+Highly motivated Computer Science and Engineering graduate with a passion for creating innovative web solutions. With two years of professional experience as a Full Stack Developer, I specialize in designing and developing responsive web applications using cutting-edge technologies.
 
-## Technologies
-### Angular Artistry: 
-Engineered captivating and responsive user interfaces using Angular, transforming design concepts into interactive realities. Elevated user experiences through intricate front-end development, ensuring pixel-perfect precision and intuitive navigation.
+🔧 **Tech Stack:** Angular, .NET Core, Next.js, HTML, CSS, TypeScript, ASP.NET Core
+🎯 **Focus:** Responsive design, API integration, web performance optimization
+🌱 **Always learning:** Committed to staying at the forefront of web development trends
 
-### .NET Core Mastery: 
-Architected and implemented robust back-end solutions with .NET Core, contributing to the backbone of scalable applications. My focus on code quality and maintainability ensures the longevity and adaptability of every project.
+## 🛠️ Technologies & Tools
 
-### Next.js Wizardry: 
-Unleashed the power of Next.js to craft performant and SEO-friendly web applications. Engineered server-side rendering for enhanced performance, elevating the discoverability and engagement of web content.
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Here's a list of technologies and frameworks I specialize in:
+## 🏆 Featured Projects
 
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- TypeScript
-- Angular
-- Next.js
-- ASP DOT NET Core
-## Projects
+### 1. Apticon 2024 - Event Website
+🔗 [www.apticon2024.com](https://www.apticon2024.com)
+- Next.js-powered event website showcasing modern design and seamless user experience
+- Features: Event details, registration, schedule management
 
-### Project 1: Operant Student Resistration Sytem
+### 2. Modern Portfolio Website
+🔗 [www.ravindrachoudhary.in](https://www.ravindrachoudhary.in)
+- Personal portfolio showcasing my projects and skills
+- Built with Next.js for optimal performance and SEO
 
-- Description: A beautifully designed web portfolio showcasing my web development skills.
-- Technologies Used: HTML, CSS, Tailwind CSS
-- [Link to Project](https://operantpharmacy.vercel.app)
+### 3. Operant Biomedical Research
+🔗 [operant-biomedical.vercel.app](https://operant-biomedical.vercel.app)
+- Web platform for biomedical research and collaboration
+- Responsive design, intuitive navigation, and data visualization
 
-### Project 2: BioForgeHub Event Managemnt 
+### 4. Video Conferencing Application
+🔗 [operant-video-conferencing.vercel.app](https://operant-video-conferencing.vercel.app)
+- Zoom-inspired video conferencing solution
+- Real-time communication, screen sharing, and chat functionality
 
-- Description: An interactive web application demonstrating my JavaScript and TypeScript knowledge.
-- Technologies Used: JavaScript, TypeScript
-- [Link to Project](https://operant-evently.vercel.app/)
+### 5. Operant Student Registration System
+- Streamlined student registration process with user-friendly interface
+- Tech Stack: HTML, CSS, Tailwind CSS
+🔗 [View Project](https://operantpharmacy.vercel.app)
 
-### Project 3: Developer PortFolio
+### 6. BioForgeHub Event Management
+- Interactive event management platform
+- Tech Stack: JavaScript, TypeScript
+🔗 [View Project](https://operant-evently.vercel.app/)
 
-- Description: An Next Js single page application highlighting my proficiency.
-- Technologies Used: Next Js
-- [Link to Project](https://theravindrachoudhary.vercel.app/)
-
-### Project 4: NextGEN Blog Website
-
-- Description: A NextGEN blog, showcasing my expertise in server-rendered React applications.
-- Technologies Used: Next.js
-
-Feel free to explore these projects to see my work in action!
-
-
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ravindrasirvi609&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ravindrasirvi609&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasirvi609&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img src="https://streak-stats.demolab.com?user=ravindrasirvi609&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" />
 </p>
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=operantnext)](https://github.com/ravindrasirvi609/operantnext)
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravindrasirvi609&style=for-the-badge&color=orange" alt=""/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindrasirvi609&show_icons=true&theme=vision-friendly-dark" alt="Ravindra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasirvi609&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+## 🤝 Let's Connect!
+
+I'm always open to exciting projects and collaborations. Feel free to reach out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravindra%20Sirvi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ravindra-sirvi-a3a260187/)
+[![Email](https://img.shields.io/badge/Email-sirviravindra609%40gmail.com-red?style=flat-square&logo=gmail)](mailto:sirviravindra609@gmail.com)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravindrasirvi609&style=for-the-badge&color=orange" alt="Profile Views"/>
 </div>
-https://github.com/ravindrasirvi609/operantnext
+
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="100%" src="https://github.com/ravindrasirvi609/ravindrasirvi609/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 
-## Contact
-
-If you'd like to get in touch with me or collaborate on a project, you can reach me via:
-
-- Email: [sirviravindra609@gmail.com](mailto:sirviravindra609@gmail.com)
-- LinkedIn: [ravindra-sirvi](https://www.linkedin.com/in/ravindra-sirvi-a3a260187/)
-
-Thank you for visiting my portfolio! I look forward to connecting with you and working together on exciting projects.
+Thanks for visiting my profile! Let's build something amazing together. 🚀
