@@ -22,7 +22,6 @@
       <td align="center"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><br>Angular</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/net-framework.png"/><br>.NET Core</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/nextjs.png"/><br>Next.js</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/performance-improvement.png"/><br>Optimization</td>
     </tr>
   </table>
 </div>
