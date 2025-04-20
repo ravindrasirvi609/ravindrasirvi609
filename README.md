@@ -1,156 +1,156 @@
+# <div align="center">✨ Ravindra Sirvi | Full Stack Developer ✨</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Ravindra+Sirvi;Full+Stack+Developer;Angular+%7C+.NET+Core+%7C+Next.js" alt="Typing SVG" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Angular+Development;.NET+Core+Solutions;Next.js+Expertise;Modern+Web+Applications)](https://git.io/typing-svg)
+  
+  <p>
+    <a href="https://www.linkedin.com/in/ravindra-sirvi-a3a260187/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sirviravindra609@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.ravindrachoudhary.in" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/ravindrasirvi609" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravindra-sirvi-a3a260187/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:sirviravindra609@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.ravindrachoudhary.in"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-</p>
+---
 
-<hr>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ravindrasirvi609&color=blueviolet&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/ravindrasirvi609?style=for-the-badge&logo=github)](https://github.com/ravindrasirvi609?tab=followers)
+  
+</div>
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-  I'm a passionate Full Stack Developer with 2+ years of experience crafting robust and scalable web applications. My expertise lies in:
-</p>
+```typescript
+const ravindra = {
+  location: "India",
+  role: "Full Stack Developer",
+  experience: "2+ years",
+  education: "Computer Science",
+  specialties: ["Web Development", "UI/UX", "API Design"],
+  currentFocus: "Building scalable web applications",
+  funFact: "I debug with coffee ☕"
+};
+```
+
+I'm a passionate Full Stack Developer who loves creating elegant solutions to complex problems. With expertise in Angular, .NET Core, and Next.js, I build robust web applications that deliver exceptional user experiences. I'm constantly exploring new technologies and methodologies to expand my skill set and stay at the cutting edge of web development.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,nextjs,typescript,react,js,html,css,tailwind" alt="Main Technologies" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs,aws,azure,mongodb,mysql" alt="Tools & Other Technologies" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ravindrasirvi609">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravindrasirvi609&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/ravindrasirvi609">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasirvi609&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ravindrasirvi609">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrasirvi609&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravindrasirvi609&theme=discord&no-frame=true&column=7" alt="ravindrasirvi609 trophies" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+  <a href="https://www.apticon2024.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=apticon-2024&theme=tokyonight&hide_border=true" alt="Apticon 2024"/>
+  </a>
+  <a href="https://www.ravindrachoudhary.in">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio"/>
+  </a>
+  
+  <a href="https://operant-biomedical.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=operant-biomedical&theme=tokyonight&hide_border=true" alt="Operant Biomedical"/>
+  </a>
+  <a href="https://operant-video-conferencing.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=video-conferencing&theme=tokyonight&hide_border=true" alt="Video Conferencing"/>
+  </a>
+  
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrasirvi609&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🔧 Daily Dev Tools
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><br>Angular</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/net-framework.png"/><br>.NET Core</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/nextjs.png"/><br>Next.js</td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+        <br>VS Code
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+        <br>Git
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>
+        <br>Figma
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+        <br>Node.js
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
+        <br>npm
+      </td>
     </tr>
   </table>
 </div>
 
-<p align="center">
-  I thrive on challenges and continuously expand my skill set to stay at the forefront of technology.
-</p>
-
-<hr>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<hr>
-
-<h2 align="center">🚀 Featured Projects</h2>
+## 📌 Pinned Repositories
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Apticon 2024</h3>
-        <p align="center">
-          <a href="https://www.apticon2024.com" target="_blank">
-            <img src="https://via.placeholder.com/300x200?text=Apticon+2024" width="300" alt="Apticon 2024"/>
-          </a>
-        </p>
-        <p align="center">
-          Next.js Event Website with Modern Design and Seamless User Experience
-        </p>
-        <p align="center">
-          <a href="https://www.apticon2024.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Modern Portfolio</h3>
-        <p align="center">
-          <a href="https://www.ravindrachoudhary.in" target="_blank">
-            <img src="https://via.placeholder.com/300x200?text=Modern+Portfolio" width="300" alt="Modern Portfolio"/>
-          </a>
-        </p>
-        <p align="center">
-          Next.js Portfolio Showcasing Skills with Optimized Performance
-        </p>
-        <p align="center">
-          <a href="https://www.ravindrachoudhary.in" target="_blank">
-            <img src="https://img.shields.io/badge/-Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Operant Biomedical Research</h3>
-        <p align="center">
-          <a href="https://operant-biomedical.vercel.app" target="_blank">
-            <img src="https://via.placeholder.com/300x200?text=Operant+Biomedical" width="300" alt="Operant Biomedical Research"/>
-          </a>
-        </p>
-        <p align="center">
-          Biomedical Research Platform with Responsive Design and Data Visualization
-        </p>
-        <p align="center">
-          <a href="https://operant-biomedical.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/-Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Video Conferencing App</h3>
-        <p align="center">
-          <a href="https://operant-video-conferencing.vercel.app" target="_blank">
-            <img src="https://via.placeholder.com/300x200?text=Video+Conferencing" width="300" alt="Video Conferencing App"/>
-          </a>
-        </p>
-        <p align="center">
-          Zoom-inspired Solution with Real-time Communication, Screen Sharing & Chat
-        </p>
-        <p align="center">
-          <a href="https://operant-video-conferencing.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/-Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ravindrasirvi609/apticon-2024">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=apticon-2024&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ravindrasirvi609/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=portfolio&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
-<hr>
+<div align="center">
+  
+  ### 💻 What I'm Working On
+  
+  - 🔭 Event-driven microservices architecture
+  - 🌱 Advanced TypeScript patterns
+  - 👯 Looking to collaborate on open-source projects
+  
+</div>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravindrasirvi609&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravindrasirvi609&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrasirvi609&theme=algolia" alt="ravindrasirvi609" />
-</p>
-
-<hr>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravindrasirvi609&theme=algolia&column=7&margin-w=15&margin-h=15" alt="ravindrasirvi609" />
-</p>
-
-<hr>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ravindrasirvi609&theme=react-dark" alt="Contribution Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
