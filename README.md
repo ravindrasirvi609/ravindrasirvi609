@@ -1,135 +1,125 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,2,25,30%26height%3D280%26section%3Dheader%26text%3DRavindra%2520Sirvi%26fontSize%3D80%26fontAlignY%3D35%26desc%3DFull%2520Stack%2520%257C%2520AI%2520Native%2520%257C%2520Vibe%2520Coder%26descAlignY%3D60%26descAlign%3D50%26animation%3DfadeIn%26fontColor%3Dffffff" alt="Ravindra Sirvi Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=300&section=header&text=Ravindra%20Sirvi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Gen%20AI%20Developer&descAlignY=51&descAlign=62" alt="Ravindra Sirvi Banner" width="100%"/>
 </div>
 
 <div align="center">
 
-<p>
-<a href="https://www.linkedin.com/in/ravindra-sirvi-a3a260187/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:sirviravindra609@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.ravindrachoudhary.in" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" alt="Portfolio"/>
-</a>
-<a href="https://github.com/ravindrasirvi609" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
-</a>
-</p>
+  [![Status](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Architecting+the+Future+with+Gen+AI;Building+Scalable+Cloud+Solutions;Crafting+Digital+Experiences;Vibe+Coding+in+Flow+State)](https://git.io/typing-svg)
+
+  <p>
+    <a href="https://www.linkedin.com/in/ravindra-sirvi-a3a260187/" target="_blank">
+      <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sirviravindra609@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Ping_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.ravindrachoudhary.in" target="_blank">
+      <img src="https://img.shields.io/badge/Explore-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 </div>
 
-<br />
+<br>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dravindrasirvi609%26color%3Dblueviolet%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b1a4-22a22a86acd0.gif" width="1000">
 </div>
 
-⚡ The Vibe & The Code
+---
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dravindrasirvi609%26show_icons%3Dtrue%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26custom_title%3DContributions" height="170px" alt="Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dravindrasirvi609%26theme%3Dmidnight-purple%26hide_border%3Dtrue" height="170px" alt="Streak" />
+<div align="center"> 
+  <img src="https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif" width="30">  <b>Vibe Check:</b> <i> coding @ 3AM with lo-fi beats & copious amounts of coffee </i> <img src="https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif" width="30">
 </div>
 
-// 👨‍💻 Ravindra.config.ts
+---
 
-class DeveloperProfile {
-  name: "Ravindra Sirvi";
-  role: "Full Stack Engineer & AI Enthusiast";
-  codePhilosophy: "Clean, Scalable, AI-Augmented";
-  
-  getCurrentFocus() {
-    return {
-      core: ["Angular", ".NET Core", "Next.js"],
-      learning: ["Agentic AI Workflows", "LLM Fine-tuning"],
-      vibe: "Building the future, one prompt at a time."
-    };
-  }
+## ⚡ The Neural Network (About Me)
+
+```typescript
+interface Developer {
+  name: string;
+  type: "Gen AI Specialist" | "Full Stack Architect";
+  energySource: "Caffeine" | "Flow State";
+  mission: string;
 }
 
+const Ravindra: Developer = {
+  name: "Ravindra Sirvi",
+  type: "Full Stack Architect",
+  energySource: "Flow State",
+  mission: "Merging human creativity with Artificial General Intelligence."
+};
 
-🧠 Tech Stack & AI Command Center
+// > Executing Innovation.exe...
+```
+
+I'm not just writing code; I'm training the future. As a passionate Full Stack Developer with a deep focus on **Generative AI**, I bridge the gap between traditional software engineering and the new frontier of AI-driven applications. From crafting robust .NET Core backends to fine-tuning LLMs, I build systems that think.
+
+## 🧠 The AI & Tech Stack
 
 <div align="center">
 
-Core Engineering
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dangular,dotnet,nextjs,typescript,react,csharp,js,html,css,tailwind" alt="Core Tech" />
-
-
-
-
-
-Gen AI, Cloud & Tools
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,mongodb,mysql,aws,azure,docker,git,github,vscode,figma,postman" alt="Tools" />
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gen_AI-OpenAI-412991%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LLM-LangChain-1C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dlangchain%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/IDE-Cursor-000000%3Fstyle%3Dfor-the-badge%26logo%3Dcursor%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Copilot-Enabled-white%3Fstyle%3Dfor-the-badge%26logo%3Dgithubcopilot%26logoColor%3Dblack" />
-</p>
+| **Gen AI & ML** | **Core Backend** | **Modern Frontend** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv" width="80" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,mongodb" width="80" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,typescript,tailwind" width="100" /> |
+| **LLMs, LangChain, HuggingFace** | **Microservices, Azure, AWS** | **Three.js, Figma, Vercel** |
 
 </div>
 
-🚀 Featured Deployments
+## 🌌 Vibe Coding & Analytics
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://www.apticon2024.com">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dravindrasirvi609%26repo%3Dapticon-2024%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26icon_color%3D36BCF7%26title_color%3Dwhite" />
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://www.ravindrachoudhary.in">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dravindrasirvi609%26repo%3Dportfolio%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26icon_color%3D36BCF7%26title_color%3Dwhite" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://operant-biomedical.vercel.app">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dravindrasirvi609%26repo%3Doperant-biomedical%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26icon_color%3D36BCF7%26title_color%3Dwhite" />
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://operant-video-conferencing.vercel.app">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dravindrasirvi609%26repo%3Dvideo-conferencing%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26icon_color%3D36BCF7%26title_color%3Dwhite" />
-</a>
-</td>
-</tr>
-</table>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ravindrasirvi609&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8a2be2" height="180" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasirvi609&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9d1d9" height="180" alt="Languages" />
+  </div>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrasirvi609&theme=midnight-purple&hide_border=true&background=0d1117" alt="Streak" />
 </div>
 
-📊 Coding Activity
+## 🏆 Achievements Unlocked
 
 <div align="center">
-<a href="https://github.com/ravindrasirvi609">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dravindrasirvi609%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue" alt="Activity Graph" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ravindrasirvi609&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+</div>
 
+## 🚀 Deployment Zone (Featured Projects)
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.apticon2024.com">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=apticon-2024&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Apticon"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.ravindrachoudhary.in">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Portfolio"/>
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td align="center">
+        <a href="https://operant-biomedical.vercel.app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=operant-biomedical&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Operant"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://operant-video-conferencing.vercel.app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrasirvi609&repo=video-conferencing&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Video Conf"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
+## 🌊 Flow State (Activity)
 
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dravindrasirvi609%26layout%3Dcompact%26langs_count%3D8%26theme%3Dmidnight-purple%26hide_border%3Dtrue" alt="Top Langs" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrasirvi609&theme=react&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,2,25,30%26height%3D100%26section%3Dfooter%26animation%3Dtwinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
